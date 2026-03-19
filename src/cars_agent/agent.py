@@ -7,9 +7,8 @@ from google.adk.tools.mcp_tool import McpToolset
 from google.adk.tools.mcp_tool.mcp_session_manager import StdioConnectionParams
 from mcp import StdioServerParameters
 
+from src.settings import settings
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-MCP_SERVER_PATH = BASE_DIR / "mcp_car_server.py"
 
 root_agent = LlmAgent(
     model="gemini-2.5-flash",
@@ -27,7 +26,7 @@ root_agent = LlmAgent(
             connection_params=StdioConnectionParams(
                 server_params=StdioServerParameters(
                     command=sys.executable,
-                    args=[str(MCP_SERVER_PATH)],
+                    args=[str(settings.MCP_SERVER_PATH)],
                     env=os.environ.copy(),
                 ),
             ),

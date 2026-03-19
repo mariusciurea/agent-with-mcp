@@ -7,8 +7,9 @@ from dotenv import load_dotenv
 
 class Settings(BaseSettings):
     BASE_DIR: Path = Path(__file__).resolve().parent.parent
-    MCP_SERVER_PATH: Path = BASE_DIR / "src/mcp_car_server.py"
-    CARS_FILE = BASE_DIR / "data" / "cars.json"
+    MCP_SERVER_PATH: Path = BASE_DIR / "src/mcp_server/mcp_car_server.py"
+    CARS_FILE: Path = BASE_DIR / "data" / "cars.json"
+
 
 
 settings = Settings()
