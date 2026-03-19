@@ -1,0 +1,219 @@
+[
+  {
+    "brand": "Dacia",
+    "model": "Logan",
+    "price": 14500,
+    "seats": 5,
+    "manufacture_year": 2020
+  },
+  {
+    "brand": "Dacia",
+    "model": "Duster",
+    "price": 19800,
+    "seats": 5,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Dacia",
+    "model": "Jogger",
+    "price": 21200,
+    "seats": 7,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "price": 25500,
+    "seats": 5,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "price": 31200,
+    "seats": 5,
+    "manufacture_year": 2020
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "price": 34800,
+    "seats": 5,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "BMW",
+    "model": "3 Series",
+    "price": 41900,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "price": 43750,
+    "seats": 5,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "price": 75800,
+    "seats": 5,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "price": 39800,
+    "seats": 5,
+    "manufacture_year": 2020
+  },
+  {
+    "brand": "Audi",
+    "model": "A6",
+    "price": 56200,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5",
+    "price": 59400,
+    "seats": 5,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "price": 46900,
+    "seats": 5,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "price": 61300,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "GLC",
+    "price": 65800,
+    "seats": 5,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "price": 23600,
+    "seats": 5,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Toyota",
+    "model": "RAV4",
+    "price": 37200,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Toyota",
+    "model": "Land Cruiser",
+    "price": 79500,
+    "seats": 7,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "price": 22400,
+    "seats": 5,
+    "manufacture_year": 2020
+  },
+  {
+    "brand": "Ford",
+    "model": "Kuga",
+    "price": 33700,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "price": 57200,
+    "seats": 4,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Skoda",
+    "model": "Octavia",
+    "price": 26900,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Skoda",
+    "model": "Superb",
+    "price": 33400,
+    "seats": 5,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kodiaq",
+    "price": 38900,
+    "seats": 7,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i30",
+    "price": 21400,
+    "seats": 5,
+    "manufacture_year": 2020
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "price": 32100,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Santa Fe",
+    "price": 46800,
+    "seats": 7,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "Kia",
+    "model": "Ceed",
+    "price": 21900,
+    "seats": 5,
+    "manufacture_year": 2021
+  },
+  {
+    "brand": "Kia",
+    "model": "Sportage",
+    "price": 30900,
+    "seats": 5,
+    "manufacture_year": 2022
+  },
+  {
+    "brand": "Kia",
+    "model": "Sorento",
+    "price": 49200,
+    "seats": 7,
+    "manufacture_year": 2023
+  },
+  {
+    "brand": "TestBrand",
+    "model": "TestModel_20260319224004",
+    "price": 12345.0,
+    "seats": 5,
+    "manufacture_year": 2026
+  }
+]
